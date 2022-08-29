@@ -1,2 +1,0 @@
-# TestAutomation
-Test Automation Projects
