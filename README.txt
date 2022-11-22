@@ -1,11 +1,11 @@
-You can see all results in fine style on TestAutomation\target\HtmlReports\report.html
+###You can see all results in fine style on TestAutomation\target\HtmlReports\report.html
 
-If you want to run test automation code, you will run
-TestAutomation\src\test\java\StepDefinitions\TestRunner.java
+### If you want to run test automation code, you will run
+### TestAutomation\src\test\java\StepDefinitions\TestRunner.java
 
-Features are in TestAutomation\src\test\resources\Features
+### Features are in TestAutomation\src\test\resources\Features
 
-Duties:
+## Duties:
 
 1- “I have 4 different keys and I don’t know which key starts my car” for this case please do the following
 
